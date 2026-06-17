@@ -15,6 +15,9 @@ A real-time procedural terrain generator built from scratch using C++ and SFML 3
 - **Random Seed** — Generate a completely new world instantly
 - **60 FPS** — Smooth real-time rendering
 
+## screenshot
+https://raw.githubusercontent.com/snehal-thombare08/Procedural-Terrain-Generation-/main/Screenshot%202026-06-17%20095554.png
+
 ## 🗺️ Biomes
 
 | Color | Biome |
